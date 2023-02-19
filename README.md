@@ -12,3 +12,8 @@
 ## In progress
 - GUI
 - Auto purchase in grand exchange
+
+## Modules
+-Pynput
+-pyautogui
+-python tk (on linux)
