@@ -19,6 +19,8 @@ while True:
     if action.Complete == True:
         notifications.SendNotification(False)
 
+# if complete dont continue
+
 # Notifications
 
 # notifications.SendNotification(True)
